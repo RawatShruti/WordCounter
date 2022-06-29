@@ -1,6 +1,6 @@
 # WordCounter
 
-This webpage was created to learn the fundamentals of HTML, CSS, JS and API. This site counts characters, words, sentences, paragraphs in a text content. This site also calculates reading time and displays readiblity score using readability-metrics API from RapidAPI. You can also see top keywords used. 
+This webpage was created to learn the fundamentals of HTML, CSS, JS and API. This site counts characters, words, sentences, paragraphs in a text content. This site also calculates reading time and displays readability score using readability-metrics API from RapidAPI. You can also see top keywords used. 
 
 This webpage was developed as external project to learn basics of web development.
 
